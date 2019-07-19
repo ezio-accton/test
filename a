@@ -1,0 +1,2 @@
+./cmdAWSEC2User.rb --create_instance --instance_name ezio_dev --region ap-south-1 --json json/build-20190516-vs-201904-23fb00/EdgeCoreEC2.json
+test 1
